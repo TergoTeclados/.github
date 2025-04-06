@@ -2,10 +2,10 @@
 
 Teclado ergonômico customizado de verdade no Brasil!
 
-Conheça em [https://tecladoergonomico.com.br]
+Conheça em https://tecladoergonomico.com.br
 
 ## Repositórios
 
-Consulte os repositórios fixados.
+Consulte os repositórios fixados logo abaixo.
 
 Aqui você encontrará os repositórios da documentação, firmware QMK (versão Padrão) e firmware ZMK (Wireless).
